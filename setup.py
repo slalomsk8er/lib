@@ -1,6 +1,6 @@
 from distutils.core import setup
 setup(name='lib',
-      version='20230609dev1',
+      version='20230609dev2',
       py_modules=[
           'setup',
           'shell',
